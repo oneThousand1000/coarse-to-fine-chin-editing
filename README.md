@@ -1,3 +1,3 @@
 # double-chin-dataset
-double-chin-dataset is a high-quality image dataset of double chin removal, based on StyleGAN.
+chin-editing-dataset is a high-quality image dataset of double chin editing, based on StyleGAN.
 Coming soon.
