@@ -7,7 +7,7 @@ chin-editing-dataset is a high-quality image dataset of double chin editing, bas
 The dataset is built by our diffusion method(See the Section3.4 in our paper)
 
 > **Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications**<br>
-> Yiqian Wu, Yongliang Yang, Qinjie Xiao, Xiaogang Jin*.<br>ACM Transactions on Graphics (Proc. of Siggraph'2021), 2021, 40(4): Article 46.
+> [Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), Qinjie Xiao,[Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)*.<br>ACM Transactions on Graphics (Proc. of Siggraph'2021), 2021, 40(4): Article 46.
 
 [[paper(high resolution)](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)]  
 
@@ -61,3 +61,5 @@ coming soon.
 ## Contact
 
 onethousand@zju.edu.cn
+
+onethousand1250@gmail.com
