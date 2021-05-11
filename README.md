@@ -9,15 +9,15 @@ The dataset is built by our diffusion method(See the Section3.4 in our paper)
 > **Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications**<br>
 > [Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), Qinjie Xiao,[Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)*.<br>ACM Transactions on Graphics (Proc. of Siggraph'2021), 2021, 40(4): Article 46.
 
-[[paper(high resolution)](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)]  
+[[paper(high resolution)](https://drive.google.com/file/d/14w9j2w8EoeH7ikD9aljT7JfulPPsvky4/view?usp=sharing)]  
 
-[[paper(low resolution)]()]  
+[[paper(low resolution)](https://drive.google.com/file/d/1Kk--kQdCB91QgkmrmOV2OwsoeF05vLr5/view?usp=sharing)]  
 
-[[demo](http://www.cad.zju.edu.cn/home/jin/sig2021/demo.mp4)]  
+[[demo](https://drive.google.com/file/d/1vaohqZ_GqgydIpnVpPv_K-7bl_UW6IyG/view?usp=sharing)]  
 
 [[code]()]  coming soon.
 
-[[supplementary materials](http://www.cad.zju.edu.cn/home/jin/sig2021/Supplementary_Materials.pdf)]
+[[supplementary materials](https://drive.google.com/file/d/14oIdiv2NkvpRYxomDRq0AQEpBuL4pKtv/view?usp=sharing)]
 
 [[project page](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)]
 
