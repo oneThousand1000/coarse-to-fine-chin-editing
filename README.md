@@ -45,7 +45,7 @@ google drive link of the dataset: https://drive.google.com/drive/folders/10e6WB4
 
 ## Related Works
 
-> **Analyzing and Improving the Image Quality of StyleGAN**
+> **Analyzing and Improving the Image Quality of StyleGAN**<br>
 > Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila
 
 
