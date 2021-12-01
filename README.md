@@ -56,8 +56,21 @@ google drive link of the dataset: https://drive.google.com/drive/folders/10e6WB4
 
 ## Citation
 
-coming soon.
-
+```
+@article{DBLP:journals/tog/WuYX021,
+  author    = {Yiqian Wu and
+               Yong{-}Liang Yang and
+               Qinjie Xiao and
+               Xiaogang Jin},
+  title     = {Coarse-to-fine: facial structure editing of portrait images via latent
+               space classifications},
+  journal   = {{ACM} Trans. Graph.},
+  volume    = {40},
+  number    = {4},
+  pages     = {46:1--46:13},
+  year      = {2021}
+}
+```
 ## Contact
 
 onethousand@zju.edu.cn
