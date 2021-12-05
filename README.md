@@ -15,7 +15,7 @@ The dataset is built by our diffusion method(See the Section3.4 in our paper)
 
 [[demo](https://drive.google.com/file/d/1vaohqZ_GqgydIpnVpPv_K-7bl_UW6IyG/view?usp=sharing)]  
 
-[[code]()]  coming soon.
+[[code](https://github.com/oneThousand1000/Facial-Structure-Editing-of-Portrait-Images-via-Latent-Space-Classifications)]
 
 [[supplementary materials](https://drive.google.com/file/d/14oIdiv2NkvpRYxomDRq0AQEpBuL4pKtv/view?usp=sharing)]
 
