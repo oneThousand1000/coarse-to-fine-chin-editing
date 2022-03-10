@@ -35,11 +35,11 @@ google drive link of the dataset: https://drive.google.com/drive/folders/10e6WB4
 | │ ├ [codes](https://drive.google.com/drive/folders/1-9gqOFihd1uxunWMHa2EyBzVCaBoNbu1?usp=sharing) | latent codes.` {img_id}_wp.npy` :  the original latent code, `{img_id}_inverted_WP_codes.npy` : the latent code after removing double chin. |
 | │ ├ [diffused](https://drive.google.com/drive/folders/1ANYOzgBS1hfuZQP1lvsbmfi_CHwmCdDt?usp=sharing) | the images that generated directly from `{img_id}_inverted_WP_codes.npy` |
 | │ ├ [res](https://drive.google.com/drive/folders/1fuunkAXEFBBISJjGcUD2VGZJ5p4MkCtn?usp=sharing) | results images , `{img_id}.jpg`                              |
-| │ └ [origin](https://drive.google.com/drive/folders/1VPeYNsyu8HdTdkd7KvRd_eYskELNr0wa?usp=sharing) | origin images, `{img_id}.jpg`                                |
+| │ └ [origin](https://drive.google.com/drive/folders/1VPeYNsyu8HdTdkd7KvRd_eYskELNr0wa?usp=sharing) | original images, `{img_id}.jpg`                              |
 | ├ [double_chin_pair_psi_0.8](https://drive.google.com/drive/folders/1t1YS7Qp0HmGDG980jH6rzGKgGvYUB14Y?usp=sharing) | data for **truncation_psi-0.8**                              |
 | │ ├[ codes](https://drive.google.com/drive/folders/1-2zj9T5amUC3fGRqKCfj__ZLtimtO32L?usp=sharing) | latent codes. `{img_id}_wp.npy` : the original latent code, `{img_id}_inverted_wp.npy `: the latent code after removing double chin. |
 | │ ├ [res](https://drive.google.com/drive/folders/1OOH0giDNkQ7HEN9Nrmh0uVf_7zbFR0_I?usp=sharing) | results images, `{img_id}.jpg`                               |
-| │ └ [origin](https://drive.google.com/drive/folders/1Am8NZbg4GBEf9vqhS3oAjizNSSSFdw8V?usp=sharing) | origin images, `{img_id}.jpg`                                |
+| │ └ [origin](https://drive.google.com/drive/folders/1Am8NZbg4GBEf9vqhS3oAjizNSSSFdw8V?usp=sharing) | original images, `{img_id}.jpg`                              |
 
 
 
