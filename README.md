@@ -10,19 +10,16 @@ The dataset is built by our diffusion method(See the Section3.4 in our paper)
 > [Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), Qinjie Xiao,[Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)*.<br>ACM Transactions on Graphics (Proc. of Siggraph'2021), 2021, 40(4): Article 46.
 
 
-[[paper(high resolution)](https://drive.google.com/file/d/14w9j2w8EoeH7ikD9aljT7JfulPPsvky4/view?usp=sharing)]  
+<div align="center">
 
-[[paper(low resolution)](https://drive.google.com/file/d/1Kk--kQdCB91QgkmrmOV2OwsoeF05vLr5/view?usp=sharing)]  
+[![Project](https://img.shields.io/badge/Doublechin%20Removal-1?label=Project&color=8B93FF)](https://onethousandwu.com/doublechinremoval.github.io/)
+[![Paper](https://img.shields.io/badge/Main%20Paper-1?color=58A399)](https://dl.acm.org/doi/10.1145/3450626.3459814)
+[![Suppl](https://img.shields.io/badge/Supplementary-1?color=378CE7)](https://drive.google.com/file/d/14oIdiv2NkvpRYxomDRq0AQEpBuL4pKtv/view?usp=sharing)
+[![Video](https://img.shields.io/badge/Video-1?color=FDA403)](https://youtu.be/1aYPceNkwIQ)
+[![Dataset](https://img.shields.io/badge/Dataset-1?color=FC819E)](https://github.com/oneThousand1000/coarse-to-fine-chin-editing)
+[![Github](https://img.shields.io/github/stars/oneThousand1000/Facial-Structure-Editing-of-Portrait-Images-via-Latent-Space-Classifications)](https://github.com/oneThousand1000/Facial-Structure-Editing-of-Portrait-Images-via-Latent-Space-Classifications)
 
-[[demo](https://drive.google.com/file/d/1vaohqZ_GqgydIpnVpPv_K-7bl_UW6IyG/view?usp=sharing)]  
-
-[[code](https://github.com/oneThousand1000/Facial-Structure-Editing-of-Portrait-Images-via-Latent-Space-Classifications)]
-
-[[supplementary materials](https://drive.google.com/file/d/14oIdiv2NkvpRYxomDRq0AQEpBuL4pKtv/view?usp=sharing)]
-
-[[project page](https://onethousandwu.com/doublechinremoval.github.io/)]
-
-[[dataset]](https://github.com/oneThousand1000/coarse-to-fine-chin-editing)
+</div>
 
 We create the first large-scale chin editing dataset to facilitate future research. The dataset contains 14,788 pairs of realistic portrait images at 1024&times;1024 resolution with and without a double chin and their corresponding latent codes. 
 
